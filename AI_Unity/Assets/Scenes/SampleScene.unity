@@ -354,7 +354,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  playerTransform: {fileID: 0}
   maxDamage: 10
 --- !u!4 &1300267840 stripped
 Transform:
